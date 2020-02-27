@@ -1,0 +1,18 @@
+#include <iostream>
+#include "BookCollection.h"
+using namespace std;
+
+BookCollection::BookCollection() {
+	head = NULL;
+	genreCount = 0;
+}
+
+BookCollection::~BookCollection() {
+	GenreNode* temp;
+
+	for (head; head != NULL; head = temp) {
+		temp = head->next;
+		delete head;
+	}
+}
+

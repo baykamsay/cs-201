@@ -1,0 +1,143 @@
+Array size: 10, value: 0
+Sequential search took 0.0002 ms.
+Binary search took 0.0007 ms.
+
+Array size: 100, value: 0
+Sequential search took 0.0006 ms.
+Binary search took 0.0007 ms.
+
+Array size: 1000, value: 0
+Sequential search took 0.0004 ms.
+Binary search took 0.0006 ms.
+
+Array size: 10000, value: 0
+Sequential search took 0.0005 ms.
+Binary search took 0.0005 ms.
+
+Array size: 100000, value: 0
+Sequential search took 0.0004 ms.
+Binary search took 0.0017 ms.
+
+Array size: 1000000, value: 0
+Sequential search took 0.0005 ms.
+Binary search took 0.0014 ms.
+
+Array size: 10000000, value: 0
+Sequential search took 0.0005 ms.
+Binary search took 0.0016 ms.
+
+Array size: 100000000, value: 0
+Sequential search took 0.001 ms.
+Binary search took 0.0022 ms.
+
+Array size: 1000000000, value: 0
+Sequential search took 0.0007 ms.
+Binary search took 0.0034 ms.
+
+Array size: 10, value: 5
+Sequential search took 0.0006 ms.
+Binary search took 0.0005 ms.
+
+Array size: 100, value: 50
+Sequential search took 0.0009 ms.
+Binary search took 0.0008 ms.
+
+Array size: 1000, value: 500
+Sequential search took 0.0032 ms.
+Binary search took 0.0009 ms.
+
+Array size: 10000, value: 5000
+Sequential search took 0.0317 ms.
+Binary search took 0.001 ms.
+
+Array size: 100000, value: 50000
+Sequential search took 0.1921 ms.
+Binary search took 0.0018 ms.
+
+Array size: 1000000, value: 500000
+Sequential search took 2.0083 ms.
+Binary search took 0.0024 ms.
+
+Array size: 10000000, value: 5000000
+Sequential search took 15.917 ms.
+Binary search took 0.0037 ms.
+
+Array size: 100000000, value: 50000000
+Sequential search took 134.759 ms.
+Binary search took 0.002 ms.
+
+Array size: 1000000000, value: 500000000
+Sequential search took 1347.6 ms.
+Binary search took 0.0037 ms.
+
+Array size: 10, value: 9
+Sequential search took 0.0005 ms.
+Binary search took 0.0005 ms.
+
+Array size: 100, value: 99
+Sequential search took 0.001 ms.
+Binary search took 0.0006 ms.
+
+Array size: 1000, value: 999
+Sequential search took 0.0046 ms.
+Binary search took 0.0006 ms.
+
+Array size: 10000, value: 9999
+Sequential search took 0.0355 ms.
+Binary search took 0.0008 ms.
+
+Array size: 100000, value: 99999
+Sequential search took 0.3624 ms.
+Binary search took 0.0008 ms.
+
+Array size: 1000000, value: 999999
+Sequential search took 3.8088 ms.
+Binary search took 0.0006 ms.
+
+Array size: 10000000, value: 9999999
+Sequential search took 28.7592 ms.
+Binary search took 0.0016 ms.
+
+Array size: 100000000, value: 99999999
+Sequential search took 265.852 ms.
+Binary search took 0.0014 ms.
+
+Array size: 1000000000, value: 999999999
+Sequential search took 2737.86 ms.
+Binary search took 0.0018 ms.
+
+Array size: 10, value: -1
+Sequential search took 0.0006 ms.
+Binary search took 0.0007 ms.
+
+Array size: 100, value: -1
+Sequential search took 0.0011 ms.
+Binary search took 0.0006 ms.
+
+Array size: 1000, value: -1
+Sequential search took 0.0036 ms.
+Binary search took 0.0009 ms.
+
+Array size: 10000, value: -1
+Sequential search took 0.0381 ms.
+Binary search took 0.0009 ms.
+
+Array size: 100000, value: -1
+Sequential search took 0.2668 ms.
+Binary search took 0.0009 ms.
+
+Array size: 1000000, value: -1
+Sequential search took 4.5702 ms.
+Binary search took 0.0015 ms.
+
+Array size: 10000000, value: -1
+Sequential search took 26.7213 ms.
+Binary search took 0.0025 ms.
+
+Array size: 100000000, value: -1
+Sequential search took 269.437 ms.
+Binary search took 0.0034 ms.
+
+Array size: 1000000000, value: -1
+Sequential search took 2631.05 ms.
+Binary search took 0.0036 ms.

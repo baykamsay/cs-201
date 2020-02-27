@@ -1,0 +1,17 @@
+﻿  FC.cpp
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\FC.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\FC.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\FC.cpp(66,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\FC.cpp(95,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\FC.cpp(111,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\FC.cpp(147,20): warning C4018: '<': signed/unsigned mismatch
+  Film.cpp
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\FC.cpp(155,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\Film.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\Film.cpp(63,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\Film.cpp(89,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\Film.cpp(114,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\Film.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\PartB\Film.cpp(154,20): warning C4018: '<': signed/unsigned mismatch
+  PartB.vcxproj -> C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\PartB\Debug\PartB.exe

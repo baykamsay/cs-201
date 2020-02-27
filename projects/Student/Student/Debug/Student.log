@@ -1,0 +1,4 @@
+﻿  Student.cpp
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\projects\Student\Student\Student.cpp(29,29): error C3867: 'Student::getId': non-standard syntax; use '&' to create a pointer to member
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\projects\Student\Student\Student.cpp(29,29): error C2446: '==': no conversion from 'const int' to 'int (__thiscall Student::* )(void)'
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\projects\Student\Student\Student.cpp(29,26): message : There are no conversions from integral values to pointer-to-member values

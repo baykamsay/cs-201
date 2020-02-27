@@ -1,0 +1,6 @@
+﻿  SimpleFC.cpp
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\HW1\HW1\SimpleFC.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\HW1\HW1\SimpleFC.cpp(65,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\HW1\HW1\SimpleFC.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\HW1\HW1\SimpleFC.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+  HW1.vcxproj -> C:\Users\bayka\Google Drive\Universite\Bilgisayar\CS 201\Homeworks\HW 1\HW1\Debug\HW1.exe
